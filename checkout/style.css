@@ -1,0 +1,35 @@
+body {
+    background-color: rgb(242, 242, 242);
+}
+
+.container {
+    max-width: 600px;
+    margin-top: calc(-1 * var(--bs-gutter-y));
+    margin-right: calc(-.5 * var(--bs-gutter-x));
+    margin-left: calc(-.5 * var(--bs-gutter-x));
+    padding: 20px;
+}
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #f8f9fa;
+}
+h1 {
+    font-size: 25px;
+}
+h2 {
+    font-size: 20px;
+}
+form {
+    margin: 0 auto;
+}
+.input-group-text {
+    background-color: rgb(219, 218, 218);
+}
+hr {
+    padding: 0;
+}
+.btn {
+    width: 100%;
+}

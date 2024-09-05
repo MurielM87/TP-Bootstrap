@@ -1,0 +1,36 @@
+.container {
+    padding: 0 100px;
+}
+h3 {
+    font-size: 15px;
+}
+p {
+    font-size: 14px;
+}
+.justify-content-end > * {
+    margin-right: 10px;
+}
+
+.row {
+    display: flex;
+    justify-content: center;
+}
+.card {
+    margin: 0 10px;
+}
+.card-header {
+    font-weight: 600;
+}
+.price {
+    font-weight: 600;
+}
+.btn {
+    width: 100%;
+}
+.table {
+    margin-bottom: 60px;
+}
+
+img {
+    width: 15px;
+}

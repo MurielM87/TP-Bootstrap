@@ -1,0 +1,35 @@
+body {
+    background-color: #f8f9fa; /* Couleur de fond gris clair */
+}
+
+.container {
+    text-align: center; 
+}
+
+img {
+    max-width: 50px;
+    margin-top: 80px;
+}
+
+h1 {
+    margin-bottom: 20px;
+    font-size: 24px;
+    color: #333;
+}
+
+.form-floating {
+    margin-bottom: 15px;
+}
+
+.form-check {
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: center;
+}
+.form-check-input {
+    margin-right: 10px;
+}
+footer {
+    margin-top: 30px;
+    color: #6c757d;
+}
